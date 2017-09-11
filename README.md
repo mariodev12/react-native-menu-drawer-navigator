@@ -1,4 +1,4 @@
-# React Native - React Navigation - Menu with DrawerNavigator
+# React Navigation - Menu with DrawerNavigator
 
 <a href="https://imgflip.com/gif/1vnt35"><img src="https://i.imgflip.com/1vnt35.gif" title="made at imgflip.com"/></a>
 
