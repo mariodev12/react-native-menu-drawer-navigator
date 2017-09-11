@@ -1,0 +1,3 @@
+rootProject.name = 'menuDrawerNavigation'
+
+include ':app'
